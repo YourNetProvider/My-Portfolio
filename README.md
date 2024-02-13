@@ -16,7 +16,7 @@ I'm always open to feedback, suggestions, and opportunities for collaboration. I
 
 ## Contact Information
 
-- Email: [your@email.com](mailto:yournetprovider@email.com)
-- GitHub: [Your GitHub Profile](https://github.com/YourNetProvider)
+- Email: [yournetprovider@email.com](mailto:yournetprovider@email.com)
+- GitHub: [YourNetProvider](https://github.com/YourNetProvider)
 
 Thank you for visiting my portfolio! I look forward to hearing from you.
